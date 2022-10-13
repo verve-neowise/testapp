@@ -1,7 +1,8 @@
 {
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "test": "echo \"No test implemented\""
   },
   "dependencies": {
     "cors": "^2.8.5",
